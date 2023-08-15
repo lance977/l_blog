@@ -49,8 +49,8 @@ params:
         subtitle:
         avatar:
             enabled: true
-            local: false
-            src: images/avatar.png
+            local: true
+            src: img/avatar.png
 
     article:
         math: false
