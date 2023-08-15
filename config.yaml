@@ -50,7 +50,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: resources/_gen/images/avatar_hu3050f7283f3c1693f5909c377c806b62_44843_300x0_resize_box_3.png
+            src: avatar.png
 
     article:
         math: false
