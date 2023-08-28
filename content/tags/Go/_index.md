@@ -4,6 +4,6 @@ description: "Go语言"
 slug: "go"
 image: "gopher.jpg"
 style:
-    background: "#10bdd5"
+    background: "#2a9d8f"
     color: "#fff"
 ---
