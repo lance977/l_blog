@@ -1,6 +1,6 @@
 ---
-title: "算法"
-description: "算法学习"
+title: "Algorithm"
+description: "算法"
 image: "algorithm.png"
 style:
     background: "#30638e"
