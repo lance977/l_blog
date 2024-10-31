@@ -1,1 +1,34 @@
-theme = 'hugo-theme-stack'
+baseURL = "https://blog.lance886.xyz"
+DefaultContentLanguage = "zh"
+languageCode = "zh-cn"
+title = "Lance's Bolg"
+theme = "diary"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "perldoc"
+    tabWidth = 4
+
+[params]
+subtitle = "Lance's Bolg."
+enableGitalk = false
+
+[[menu.main]]
+url = "/posts"
+name = "文章"
+weight = 2
+[[menu.main]]
+url = "/categories"
+name = "分类"
+weight = 3
+[[menu.main]]
+url = "/tags"
+name = "标签"
+weight = 4

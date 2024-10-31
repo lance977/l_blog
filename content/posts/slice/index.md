@@ -2,6 +2,8 @@
 title: Slice
 description: 
 date: 2022-03-10
+# 草稿
+draft: true
 slug: slice
 image: go.png
 categories:

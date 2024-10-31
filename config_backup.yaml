@@ -1,6 +1,6 @@
 baseurl: https://blog.lance886.xyz
-languageCode: en
-theme: hugo-theme-stack
+languageCode: zh-cn
+theme: diary
 paginate: 5
 title: Lance's Blog
 
@@ -12,14 +12,14 @@ title: Lance's Blog
 #         weight: 2
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: diary
 
 # GA Tracking ID
 googleAnalytics:
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
-DefaultContentLanguage: en
+DefaultContentLanguage: zh-cn
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
